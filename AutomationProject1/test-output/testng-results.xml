@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T12:37:45 IST" name="Default suite" finished-at="2022-09-19T12:37:52 IST" duration-ms="6540">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T12:37:45 IST" name="Default test" finished-at="2022-09-19T12:37:52 IST" duration-ms="6540">
+      <class name="Signin">
+        <test-method signature="launchBrowser()[pri:1, instance:Signin@398474a2]" started-at="2022-09-19T12:37:45 IST" name="launchBrowser" finished-at="2022-09-19T12:37:47 IST" duration-ms="2020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="signIn()[pri:2, instance:Signin@398474a2]" started-at="2022-09-19T12:37:47 IST" name="signIn" finished-at="2022-09-19T12:37:48 IST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="userName()[pri:3, instance:Signin@398474a2]" started-at="2022-09-19T12:37:48 IST" name="userName" finished-at="2022-09-19T12:37:49 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userName -->
+        <test-method signature="enterPassword()[pri:4, instance:Signin@398474a2]" started-at="2022-09-19T12:37:49 IST" name="enterPassword" finished-at="2022-09-19T12:37:50 IST" duration-ms="1087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method signature="login()[pri:5, instance:Signin@398474a2]" started-at="2022-09-19T12:37:50 IST" name="login" finished-at="2022-09-19T12:37:52 IST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Signin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
